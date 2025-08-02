@@ -18,7 +18,7 @@
 
 ## 📸 Preview
 
-![WeatherHub UI](images/background1.jpg) <!-- Replace with an actual screenshot if available -->
+![WeatherHub UI](images/Screenshot.png) <!-- Replace with an actual screenshot if available -->
 
 ## 🛠️ Tech Stack
 
